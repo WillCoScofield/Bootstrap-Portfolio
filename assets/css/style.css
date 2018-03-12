@@ -1,0 +1,127 @@
+.row{
+    /* border: black solid 1px; */
+}
+
+
+.navbar-text{
+    color: white;    
+    
+}
+
+.footText{
+    color: white;
+}
+
+.footerContainer{
+    text-align: center;
+    color: white;
+}
+
+.footer{
+    text-align: center;
+    /* color: white; */
+    background-color:#666666;
+    text-align: center;
+    /* border-top: 2px solid teal; */
+
+}
+
+.fix2{
+    background: whitesmoke;
+}
+
+.navbar-fixed-bottom{
+    border-top: 2px solid teal;
+    
+}
+
+body{
+    background: url("../images/textured_paper.png") center fixed;
+}
+
+#meImage{
+    width: 35%;
+    float: left;
+    margin: 2.5%;
+}
+
+#NhImage{
+    width: 35%;
+    float: left;
+    margin: 2.5%;
+}
+
+.abtCont{
+    background: whitesmoke;
+    padding-top: 2%;
+}
+
+.panel1{
+    background:whitesmoke;
+}
+
+.navbar-collapse{
+    float: right;
+}
+
+.abtPanel{
+   
+}
+
+.abt{
+    text-align: center;
+}
+
+.test1{
+    background: whitesmoke;
+}
+
+.ContactSec{
+    /* border: 2px solid black; */
+    background: whitesmoke;
+}
+
+.contactPanel{
+    text-align: center;
+}
+.ContactForm
+{
+    background: whitesmoke;
+    padding: 2.5%;
+    
+}
+
+.contactHead{
+    background: whitesmoke;
+}
+
+
+img{
+    width: 45%;
+
+}
+
+.PortfolioCont{
+    padding: 3%;
+    background: whitesmoke;
+    /* margin: 1%; */
+}
+
+.SocialMedia{
+    
+    background: whitesmoke;
+    padding: 2%;
+    
+}
+
+.soHead{
+    border-bottom: 1px solid gray;
+}
+
+.portPanel{
+    text-align: center;
+}
+
+
+
+
